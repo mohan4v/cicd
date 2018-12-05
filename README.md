@@ -1,2 +1,2 @@
 # cicd
-Demo CICD
+This is a sample demo CICD
